@@ -1,4 +1,5 @@
 package config;
 
-public class ServletConfig {
+public class ServletConfig  {
+
 }

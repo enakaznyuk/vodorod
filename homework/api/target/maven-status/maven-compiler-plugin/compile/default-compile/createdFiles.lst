@@ -1,1 +1,10 @@
-controller\TestApi.class
+filter\AuthFilter.class
+config\ServletConfig.class
+servlets\LoginServlet.class
+servlets\LogoutServlet.class
+util\SessionUtil.class
+servlets\OrderServlet.class
+servlets\RegisterServlet.class
+servlets\UserServlet.class
+servlets\ProductServlet.class
+servlets\HomeServlet.class
